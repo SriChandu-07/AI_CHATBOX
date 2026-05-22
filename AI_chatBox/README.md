@@ -11,4 +11,3 @@ A simple rule-based chatbot built using Python and Flask.
 ## How to Run
 pip install flask
 python app.py
-Then open http://localhost:5000
